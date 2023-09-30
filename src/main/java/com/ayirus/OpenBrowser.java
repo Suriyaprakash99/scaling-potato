@@ -9,7 +9,7 @@ public class OpenBrowser {
 	ChromeOptions chromeOption= new ChromeOptions();
 	chromeOption.setBrowserVersion("118");
 	WebDriver chrome= new ChromeDriver(chromeOption);
-	chrome.get("https://www.google.com");
+	chrome.get("https://www.fb.com");
 	Thread.sleep(5000);
 	chrome.quit();
 	}
