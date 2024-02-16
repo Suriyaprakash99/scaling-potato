@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="true" name="Suite" thread-count="1">
+	<test name="Test">
+		<classes>
+			<class name="runner.ayirus.Regression.Test_Regression" />
+		</classes>
+	</test> <!--
+	Test -->
+</suite> <!--
+Suite -->
